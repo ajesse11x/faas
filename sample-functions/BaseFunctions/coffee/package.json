@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "coffeescript": "^1.12.4",
-    "get-stdin": "^5.0.1"
+    "get-stdin": "^7.0.0"
   }
 }
