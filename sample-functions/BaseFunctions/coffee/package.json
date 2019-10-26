@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "coffeescript": "^1.12.4",
+    "coffeescript": "^2.4.1",
     "get-stdin": "^5.0.1"
   }
 }
