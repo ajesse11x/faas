@@ -12,6 +12,6 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "get-stdin": "^5.0.1",
-    "request": "^2.79.0"
+    "request": "^2.88.0"
   }
 }
